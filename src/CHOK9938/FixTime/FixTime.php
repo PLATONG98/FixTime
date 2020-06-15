@@ -35,7 +35,7 @@ class FixTime extends PluginBase{
     }
     
     private function setTimezoneAuto() : void{
-        $this->getServer()->getAsyncPool()->submitTask(new SetTimezoneTask($this));
+        $this->getServer()->getAsyncPool()->submitTask(new SetFixtime($this));
     }
     
     public function disable(){
