@@ -6,7 +6,7 @@ use pocketmine\plugin\Plugin;
 use pocketmine\scheduler\AsyncTask;
 use pocketmine\utils\Internet;
 
-class SetTimezoneTask extends AsyncTask{
+class SetFixTime extends AsyncTask{
     public function __construct(Plugin $plugin){
         $this->plugin = $plugin;
     }
