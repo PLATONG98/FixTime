@@ -1,5 +1,5 @@
 <?php
-namespace CHOK9938\FixTime;
+namespace CHOK9938\SetFixTime;
 
 use pocketmine\Server;
 use pocketmine\plugin\Plugin;
