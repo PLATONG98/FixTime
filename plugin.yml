@@ -1,0 +1,6 @@
+name: FixTime
+api: [3.0.0, 3.3.1, 4.0.0]
+main: CHOK9938\FixTime\FixTime
+version: 0.1
+author: CHOK9938
+description: "Fix your Timezone"

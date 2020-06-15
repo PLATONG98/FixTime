@@ -1,0 +1,19 @@
+#  //////  //  //  //////  //  //
+#  //      //////  //  //  ////
+#  //      //  //  //  //  // // 
+#  //////  //  //  //////  //  //
+# FixTime Configuration File
+
+# ----------------------------------------------------------------------------
+
+# Switch timezone mode 'auto' or 'manual'
+# (if set to auto, plugin will get timezone from your ip and set timezone)
+
+timezone-mode: 'auto' #Is Not Support In Some TimeZone 
+
+# ----------------------------------------------------------------------------
+
+# Manual Timezone
+# (if you set timezone-mode to 'manual', you need to configure this. please write timezone what you want to set)
+
+manual-timezone: 'America/New_York'
