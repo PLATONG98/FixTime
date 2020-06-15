@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/CHOK9938/FixTime
+build-by-default: true
+branches:
+- master
+projects:
+  FixTime:
+    path: ""
+...
